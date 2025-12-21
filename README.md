@@ -29,6 +29,17 @@ My work focuses on understanding the behavior of algorithms, not just using them
 - Design of reusable libraries for genetic and probabilistic optimization
 - Improving code quality through documentation and automated testing
 - Connecting Theory (mathematics and algorithms) with real-world applications
+  
+## 📚 Research & Learning Interests
+
+I am particularly interested in the theoretical and practical aspects of evolutionary computation and optimization. My current learning and research focus includes:
+
+- Evolutionary Algorithms and Genetic Programming
+- Probabilistic Models and Estimation of Distribution Algorithms (EDA)
+- Optimization Theory and Search Strategies
+- Symbolic Regression and Model Discovery
+- Algorithm Interpretability and Generalization
+- Computational Efficiency and Algorithmic Complexity
 
 ## 📌 Philosophy
 I value clarity over cleverness, precision over shortcuts, and reproducibility over improvisation. Code should be self-explanatory, tests should confirm intent, and algorithms should be understood before being trusted.
