@@ -35,6 +35,8 @@ I value clarity over cleverness, precision over shortcuts, and reproducibility o
 
 ## 📫 Contact
 - GitHub: https://github.com/LuisPablo54
-
+- Gmail: luisirach54@gmail.com
+- Researchgate: https://www.researchgate.net/profile/Luis-Lopez-Iracheta
+  
 Always learning, always refining.
 
